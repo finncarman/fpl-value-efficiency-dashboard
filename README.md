@@ -66,6 +66,14 @@ The workflow involved building a complete data pipeline — from sourcing raw JS
 
 ---
 
+## Repository Structure
+- **/data/** – contains the cleaned Excel dataset  
+- **/sql/** – includes all SQL analysis queries  
+- **/screenshots/** – images of the Tableau dashboard  
+- **README.md** – project documentation
+
+---
+
 ## Tableau Dashboard
 
 View the live dashboard here:  
