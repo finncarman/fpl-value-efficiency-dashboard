@@ -78,13 +78,13 @@ View the live dashboard here:
 fpl-value-efficiency-dashboard/
 │
 ├── data/
-│ └── fpl_data.xlsx
+│   └── fpl_data.xlsx
 │
 ├── sql/
-│ └── fpl_analysis_queries.sql
+│   └── fpl_analysis_queries.sql
 │
 ├── screenshots/
-│ └── dashboard_preview.png
+│   └── dashboard_preview.png
 │
 └── README.md
 
