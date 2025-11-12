@@ -1,6 +1,3 @@
-# fpl-value-efficiency-dashboard
-Data analysis project combining SQL, Excel, and Tableau Public to measure player and team value efficiency for the first 10 weeks of the 2025 FPL season.
-
 # FPL 2025 Value Efficiency Analysis
 
 This project analyses Fantasy Premier League (FPL) player and team data to measure **value efficiency** across the first 10 weeks of the 2025 season.  
