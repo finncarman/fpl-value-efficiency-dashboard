@@ -106,7 +106,7 @@ fpl-value-efficiency-dashboard/
 
 **Finn Carman**  
 Data Analyst | Tableau, SQL, Excel  
-[LinkedIn](www.linkedin.com/in/finncarmankuh) • [Tableau Public][(https://public.tableau.com/app/profile/finn.carman/vizzes)]
+[LinkedIn][(www.linkedin.com/in/finncarmankuh)] • [Tableau Public][(https://public.tableau.com/app/profile/finn.carman/vizzes)]
 
 ---
 
