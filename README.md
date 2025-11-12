@@ -73,10 +73,6 @@ View the live dashboard here:
 
 ---
 
-<pre> ## Repository Structure ``` fpl-value-efficiency-dashboard/ │ ├── data/ │ └── fpl_data.xlsx │ ├── sql/ │ └── fpl_analysis_queries.sql │ ├── screenshots/ │ └── dashboard_preview.png │ └── README.md ``` </pre>
-
----
-
 ## How to Reproduce
 
 1. Download the data from the `/data` directory or retrieve fresh data from the FPL API.  
