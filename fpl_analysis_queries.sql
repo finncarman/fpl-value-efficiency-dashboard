@@ -176,7 +176,7 @@ SELECT * FROM fpl.fpl_team_summary;
 -- 4 PLAYER VALUE & EFFICIENCY ANALYSIS
 -- ============================================================
 
--- 💰 Player Efficiency: Best Value Players by Points per Million
+-- Player Efficiency: Best Value Players by Points per Million
 WITH ranked_value AS (
   SELECT 
     position,
@@ -290,7 +290,7 @@ SELECT * FROM fpl.fpl_cost_performance LIMIT 20;
 
 -- ============================================================
 
--- ✅ Final check: preview base dataset
+-- Final check: preview base dataset
 SELECT * FROM fpl.fpl_base LIMIT 20;
 
 
